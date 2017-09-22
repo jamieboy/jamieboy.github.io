@@ -1,6 +1,10 @@
 .header-block {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 10% 5% 10% 5%;
     background-color: antiquewhite;
     color: black;
+}
+
+.header-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
 }
